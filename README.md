@@ -1,0 +1,2 @@
+# springboot-localtomcat-jsp
+使用本地的tomcat以及使用jsp作为视图的springboot初始化项目
